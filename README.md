@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaushinder](https://github.com/kaushinder)
 
-- 📝 I regularly write articles on [Machine Learning, Full Stack Development, System Design](Machine Learning, Full Stack Development, System Design)
+- 📝 I regularly write articles on [Machine Learning, Full Stack Development, System Design]
 
 - 💬 Ask me about **React, Next.js, Node.js, DSA, Machine Learning, AI Chatbots, System Design**
 
