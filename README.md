@@ -15,7 +15,7 @@
 
 I'm a passionate **Full Stack AI Software Developer** from India 🇮🇳, specializing in building intelligent, scalable applications that leverage cutting-edge technologies. I love solving complex problems and bringing innovative ideas to life through code.
 
-- 🔭 Currently working on **[Netflix-GPT](https://github.com/kaushinder/netflix-gpt)** - An AI-powered movie recommendation platform using React, Node.js & OpenAI
+- 🔭 Currently working on **[Netflix-GPT](https://github.com/kaushinder/netflix-gpt)** - An AI-powered movie recommendation platform using React, Node.js & OpenAI  & **[devTinder](https://github.com/kaushinder/devTinder)** - A Tinder like plaform for developers to connect and share learning and knowledge.
 - 🌱 Learning **N8N, Gen AI, System Design, Microservices, Kubernetes, Advanced ML (CNN, NLP, LSTM), Cloud DevOps**
 - 👯 Open to collaborate on **Full Stack & AI-powered Web Applications** (MERN / Spring Boot / ML Projects)
 - 💬 Ask me about **React, Next.js, Node.js, DSA, Machine Learning, AI Chatbots, System Design**
